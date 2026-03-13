@@ -1,3 +1,3 @@
 # Team Fruit Salad
 -2 apples
-- 1 Pineapple
+-1 Pineapple
